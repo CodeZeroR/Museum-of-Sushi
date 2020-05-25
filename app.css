@@ -1,0 +1,41 @@
+body {
+    background-color: #bc002d;
+	font-family: "Noto Sans JP", sans-serif;
+}
+
+#main .navbar-brand {
+	color: #000000;
+	font-size: 1.5rem;
+}
+
+#main .nav-link {
+	color: white;
+}
+
+#main .nav-link:hover {
+	color: #000000;
+}
+
+#main {
+	font-weight: 100;
+}
+
+#heading span {
+	color: black;
+}
+
+#heading h2 {
+	font-weight: 100;
+	font-size: 2rem;
+}
+
+p {
+	font-size: 1.25rem;
+	font-weight: 100;
+	line-height: 1.5;
+}
+
+.navbar.scrolled {
+	background: #ff003d;
+	transition: background 2s;
+}
